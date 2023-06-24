@@ -1,7 +1,10 @@
 # 🚀 Demo project to show the demo of documenting REST APIs in SpringBoot using OpenAPI, Swagger UI 🚀
 
 # Important Links
-- Spring Cloud Project - https://spring.io/projects/spring-cloud
+- Spring Doc Project - https://springdoc.org/v2/
+- Swagger website - https://swagger.io/
+- Swagger Editor - https://editor.swagger.io/
+- Default Swagger local URL - http://localhost:8080/swagger-ui/index.html
 
 ## Contact the Instructor
 
